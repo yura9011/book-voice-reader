@@ -9,24 +9,24 @@ This project is inspired by the [Voice Cursor](https://github.com/googlecreative
 ## Current Functionalities
 
 -   **Native Gemini Audio:** Direct integration with Gemini 2.0's text-to-speech capabilities via websockets.
--   **Multiple Voice Options:**  Select from various pre-defined Gemini voices for the audio output.
--   **Rich Tone Selection:**  Choose from a wide array of stylistic tones to apply to the text before generating audio.
+-   **Multiple Voice Options:** Select from various pre-defined Gemini voices for the audio output.
+-   **Rich Tone Selection:** Choose from a wide array of stylistic tones to apply to the text before generating audio.
 -   **Flexible Input:** Input text directly or from a text file.
 -   **Real-time Audio Playback:** Plays generated audio using pygame.
 
 ## Planned Enhancements
 
--  **Graphical User Interface (GUI):** Development of a GUI to provide an easier and more interactive way to use the script.
+-   **Graphical User Interface (GUI):** Development of a GUI to provide an easier and more interactive way to use the script.
 
 ## Dependencies
 
--   Python 3.9 or higher
--   `asyncio`
--   `websockets`
--   `wave`
--   `pygame`
--   `numpy`
--   `IPython` (for displaying Markdown, optional)
+- Python 3.9 or higher
+- `asyncio`
+- `websockets`
+- `wave`
+- `pygame`
+- `numpy`
+- `IPython` (for displaying Markdown, optional)
 
 You can install these dependencies using pip:
 

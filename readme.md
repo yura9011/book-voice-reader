@@ -1,6 +1,6 @@
 # Gemini Audio Text-to-Speech CLI
 
-**Last Updated:** October 22, 2024
+**Last Updated:** December 22, 2024
 
 This Python script provides a command-line interface to interact with the Google Gemini API for generating audio from text, applying various stylistic tones. It leverages websockets for real-time communication with the Gemini API and pygame for audio playback.
 

@@ -18,20 +18,6 @@ This project is inspired by the [Voice Cursor](https://github.com/googlecreative
 
 -   **Graphical User Interface (GUI):** Development of a GUI to provide an easier and more interactive way to use the script.
 
-## Dependencies
-
-- Python 3.9 or higher
-- `asyncio`
-- `websockets`
-- `wave`
-- `pygame`
-- `numpy`
-- `IPython` (for displaying Markdown, optional)
-
-You can install these dependencies using pip:
-
-```bash
-pip install websockets pygame numpy ipython
 Use code with caution.
 Markdown
 Configuration
@@ -115,3 +101,18 @@ This project is an experiment showcasing Gemini API's text-to-speech capabilitie
 
 License
 Licensed under the Apache-2.0 license.
+
+## Dependencies
+
+- Python 3.9 or higher
+- `asyncio`
+- `websockets`
+- `wave`
+- `pygame`
+- `numpy`
+- `IPython` (for displaying Markdown, optional)
+
+You can install these dependencies using pip:
+
+```bash
+pip install websockets pygame numpy ipython
